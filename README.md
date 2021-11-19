@@ -32,19 +32,17 @@ Password: Password@123
 
 HOMEPAGE
 
-![](C:\Users\fredk_000\Pictures\Screenshots\homepage.JPG)
+![](https://github.com/fredkiptui/KCA-University-Student-Grading-System-Project/blob/master/images/homepage.JPG)
 
 STUDENT 
 
-![student](C:\Users\fredk_000\Pictures\Screenshots\student.JPG)
+![](https://github.com/fredkiptui/KCA-University-Student-Grading-System-Project/blob/master/images/student.JPG)
 
 
 
 SAMPLE FORM
 
-
-
-![result](C:\Users\fredk_000\Pictures\Screenshots\result.JPG)
+![](https://github.com/fredkiptui/KCA-University-Student-Grading-System-Project/blob/master/images/result.JPG)
 
 
 

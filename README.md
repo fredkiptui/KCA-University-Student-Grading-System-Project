@@ -66,4 +66,12 @@ SAMPLE FORM
 
    []: https://facebook.com/techmsafi
 
-5) Also become a Follower of my GitHub page
+5. Also become a Follower of my GitHub page
+
+6. SUPPORT
+
+   Your support for channelling more energy in creating this works will be much appreciated:
+
+   [CLICK TO DONATE SOMETHING](https://www.paypal.com/donate?hosted_button_id=FCG3PGKHDLAVY)
+
+THANKS ALL.

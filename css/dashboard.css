@@ -1,0 +1,11 @@
+.main{
+            border-radius: 10px;
+            border-width: 5px;
+            border-style: solid;
+            padding: 20px;
+            margin: 7% 20% 0 20%;
+        }
+        
+        body{
+            background-color: grey;
+        }

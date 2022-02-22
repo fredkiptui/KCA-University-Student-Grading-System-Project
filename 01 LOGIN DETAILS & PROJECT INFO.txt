@@ -1,8 +1,4 @@
-**Log on to codeastro.com for more projects!***
 
-**Database Name: simplestresult**
-
-**Developed by Farah Kharrat**
 
 **Recommended PHP Version 5.6 or Newer**
 
